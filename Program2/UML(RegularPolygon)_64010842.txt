@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------------
+|                               RegularPolygon                                      |
+-------------------------------------------------------------------------------------
+|  - n : int                                                                        |
+|  - side : double                                                                  |
+|  - x : double                                                                     |
+|  - y : double                                                                     |
+-------------------------------------------------------------------------------------
+|  + RegularPolygon()                                                               |
+|  + RegularPolygon(new_n : int, new_side : double)                                 |
+|  + RegularPolygon(new_n : int, new_side : double, new_x : double, new_y : double) |
+|  + setN(new_n : int) : void                                                       |
+|  + setSide(new_side : double) : void                                              |
+|  + setX(new_x : double) : void                                                    |
+|  + setY(new_y : double) : void                                                    |
+|  + getN() : int                                                                   |
+|  + getSide() : double                                                             |
+|  + getX() : double                                                                |
+|  + getY() : double                                                                |
+|  + getPerimeter() : double                                                        |
+|  + getArea() : double                                                             |
+-------------------------------------------------------------------------------------

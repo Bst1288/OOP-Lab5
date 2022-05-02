@@ -1,0 +1,22 @@
+---------------------------------------------------------------------
+|                             Account                               |
+---------------------------------------------------------------------
+| - id : int                                                        |
+| - balance : double                                                |
+| - annualInterestRate : double                                     |
+| - dateCreated : String                                            |
+---------------------------------------------------------------------
+| + Account()                                                       |
+| + Account(newID : int, newBalance : double)                       |
+| + setId(newID : int) : void                                       |
+| + setBalance(newBalance : int) : void                             |
+| + setAnnualInterestRate(newAnnualInterestRate : double) : void    |
+| + getId() : int                                                   |
+| + getBalance() : double                                           |
+| + getAnnualInterestRate() : double                                |
+| + getMonthlyInterestRate() : double                               |
+| + getMonthlyInterest() : double                                   |
+| + deposit(money : double) : void                                  |
+| + withdraw(money : double) : void                                 |
+| + getDateCreated() : String                                       |
+---------------------------------------------------------------------
